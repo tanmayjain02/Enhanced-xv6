@@ -1,0 +1,7 @@
+﻿1)   test-hello           it tests hello()
+2)   test-helloyou     it tests helloYou()
+3)   Tproc                it is the user command for getNumProc()
+4)   showA               it is the user command for showAncestry()
+5    test-NumP         it tests getNumProc thoroughly
+6)   test-showA        it tests showAncestry throroughly
+7)   check_all           it tests all the system calls which we implemented 
